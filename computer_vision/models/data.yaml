@@ -1,0 +1,35 @@
+names:
+- apple
+- banana
+- blue berry
+- bread
+- brinjal
+- butter
+- cabbage
+- capsicum
+- carrot
+- cheese
+- chicken
+- chocolate
+- corn
+- cucumber
+- egg
+- flour
+- fresh cream
+- ginger
+- green beans
+- green chilly
+- green leaves
+- lemon
+- meat
+- milk
+- mushroom
+- potato
+- shrimp
+- stawberry
+- sweet potato
+- tomato
+nc: 30
+test: /content/fridge_dataset/test/images
+train: /content/fridge_dataset/train/images
+val: /content/fridge_dataset/valid/images

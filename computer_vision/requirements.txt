@@ -1,0 +1,32 @@
+# Fridge Spoilage Detection - Exact Dependencies
+# Tested and working versions
+
+# Core ML Libraries
+torch==2.6.0
+torchvision==0.21.0
+ultralytics==8.3.113
+opencv-python==4.11.0.86
+
+# Data Processing
+numpy==1.26.0
+pandas==2.1.1
+scikit-learn==1.5.2
+
+# Web Framework
+fastapi==0.117.1
+uvicorn==0.37.0
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# Image Processing
+pillow==10.0.1
+
+# Utilities
+tqdm==4.66.6
+pyyaml==6.0.2
+
+# Optional: For advanced features
+# onnx==1.19.0  # For model export
+# tensorflow==2.19.0  # For TensorFlow Lite export

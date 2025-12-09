@@ -1,0 +1,39 @@
+# 🧠 Ignore large training outputs (keep important data and models)
+runs/
+outputs/crops/
+outputs/batch_results/
+*.png
+
+# 🧪 Ignore testing/cache files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# 🛠️ Ignore your virtual environment
+venv/
+.env/
+.env.development.local
+.env.production.local
+.env.local
+.sfdx
+
+# 💻 macOS system files
+.DS_Store
+
+# 📊 Ignore dependency reports (generated locally)
+DEPENDENCY_REPORT.md
+
+
+# 📝 Keep these important files:
+# ✅ data/ - Important datasets
+# ✅ models/ - Trained models for demo
+# ✅ outputs/tsne/ - Visualization outputs
+.venv/
+backend/.venv/
+**/*.venv/
+.md
+
+# 🚫 Ignore large model files (too big for GitHub)
+*.pt
+!computer_vision/models/yolov8n.pt
+
