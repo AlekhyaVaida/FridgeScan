@@ -11,3 +11,6 @@ Computer Vision: YOLOv8 (PyTorch/Ultralytics), custom dataset (30 classes), dual
 Data: MongoDB Atlas
 
 External APIs: TheMealDB 
+
+[Project Demo](https://drive.google.com/file/d/1kqYXsBuU4Y3934p_W14Gk6ZkLQbh_9NE/view?usp=sharing)
+
